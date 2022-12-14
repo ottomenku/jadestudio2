@@ -43,10 +43,7 @@
   <!-- Load Facebook SDK for JavaScript -->
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" 
-        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1
-             &version=v15.0
-             &appId=458948649752414
-             &autoLogAppEvents=1" 
+        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v15.0&appId=458948649752414&autoLogAppEvents=1" 
         nonce="FOKrbAYI">
   </script>
  <!-- Load Facebook SDK for JavaScript  //////-->
