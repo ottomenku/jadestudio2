@@ -95,6 +95,11 @@
                     <h1 class="display-5 animated fadeIn mb-4">Egy frissítő <span class="text-primary">Jáde maszzázs</span> Jöhet?</h1>
                     <p class="animated fadeIn mb-4 pb-2">Ha valami igazán különlegeset és és személyre szabottat szeretnél..</p>
                     <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Igen szeretném</a>
+                    
+    <!-- like and shar button-->
+<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+    <!-- like and shar button--> 
+    
                 </div>
                 <div class="col-md-6 animated fadeIn">
                     <div class="owl-carousel header-carousel">
@@ -113,9 +118,7 @@
         </div>
         <!-- Header End -->
         
-  <!-- like and shar button-->
-<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
-    <!-- like and shar button-->  
+   
 
         <!-- Footer Start -->
         <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
