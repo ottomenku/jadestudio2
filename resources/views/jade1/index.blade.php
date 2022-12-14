@@ -29,14 +29,27 @@
 
     <!-- Template Stylesheet -->
     <link href="jade1/css/style.css" rel="stylesheet">
+    <!-- You can use open graph tags to customize link previews.  Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+    <meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Your Website Title" />
+    <meta property="og:description"   content="Your description" />
+    <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+    
+    
 </head>
 
 <body>
- <!-- FB js sdk 1 -->
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v15.0&appId=458948649752414&autoLogAppEvents=1" nonce="54A4n4Fl"></script>
- <!-- FB js sdk 1 -->  
- 
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" 
+        src="https://connect.facebook.net/en_US/sdk.js#xfbml=1
+             &version=v15.0
+             &appId=458948649752414
+             &autoLogAppEvents=1" 
+        nonce="FOKrbAYI">
+  </script>
+ <!-- Load Facebook SDK for JavaScript  //////-->
  
    <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
@@ -94,12 +107,17 @@
                 <div class="col-md-6 p-5 mt-lg-5">
                     <h1 class="display-5 animated fadeIn mb-4">Egy frissítő <span class="text-primary">Jáde maszzázs</span> Jöhet?</h1>
                     <p class="animated fadeIn mb-4 pb-2">Ha valami igazán különlegeset és és személyre szabottat szeretnél..</p>
-                    <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Igen szeretném</a>
-                    
     <!-- like and shar button-->
-<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
-    <!-- like and shar button--> 
-    
+    <div class="fb-like" 
+       data-href="https://jádestudio.hu" 
+       data-width=""
+       data-layout="button_count" 
+       data-action="like" 
+       data-size="large"  
+       data-share="true">
+    </div>    
+     <!-- like and shar button--> 
+                    <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Igen szeretném</a>
                 </div>
                 <div class="col-md-6 animated fadeIn">
                     <div class="owl-carousel header-carousel">
