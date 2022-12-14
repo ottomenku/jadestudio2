@@ -30,7 +30,7 @@
     <!-- Template Stylesheet -->
     <link href="jade1/css/style.css" rel="stylesheet">
     <!-- You can use open graph tags to customize link previews.  Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-    <meta property="og:url"           content="https://xn--jdestudio-01a.hu/ />
+    <meta property="og:url"           content="https://xn--jdestudio-01a.hu" />
     <meta property="og:type"          content="website" />
     <meta property="og:title"         content="Jádestudio" />
     <meta property="og:description"   content="Egy frissítő Jáde maszzázs Jöhet?" />
