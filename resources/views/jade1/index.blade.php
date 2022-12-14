@@ -32,7 +32,13 @@
 </head>
 
 <body>
-    <div class="container-xxl bg-white p-0">
+ <!-- FB js sdk 1 -->
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&version=v15.0&appId=458948649752414&autoLogAppEvents=1" nonce="54A4n4Fl"></script>
+ <!-- FB js sdk 1 -->  
+ 
+ 
+   <div class="container-xxl bg-white p-0">
         <!-- Spinner Start -->
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -106,9 +112,10 @@
             </div>
         </div>
         <!-- Header End -->
-
-
-    
+        
+  <!-- like and shar button-->
+<div class="fb-like" data-href="https://developers.facebook.com/docs/plugins/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true"></div>
+    <!-- like and shar button-->  
 
         <!-- Footer Start -->
         <div class="container-fluid bg-dark text-white-50 footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
