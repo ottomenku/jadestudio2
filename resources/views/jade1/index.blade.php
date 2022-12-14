@@ -30,11 +30,11 @@
     <!-- Template Stylesheet -->
     <link href="jade1/css/style.css" rel="stylesheet">
     <!-- You can use open graph tags to customize link previews.  Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
-    <meta property="og:url"           content="https://www.your-domain.com/your-page.html" />
+    <meta property="og:url"           content="https://xn--jdestudio-01a.hu/ />
     <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Your Website Title" />
-    <meta property="og:description"   content="Your description" />
-    <meta property="og:image"         content="https://www.your-domain.com/path/image.jpg" />
+    <meta property="og:title"         content="Jádestudio" />
+    <meta property="og:description"   content="Egy frissítő Jáde maszzázs Jöhet?" />
+    <meta property="og:image"         content="https://xn--jdestudio-01a.hu/jade1/img/carousel-1.jpg" />
     
     
 </head>
@@ -111,7 +111,7 @@
                     <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Igen szeretném</a>
     <!-- like and shar button-->
     <div class="fb-like" 
-       data-href="https://jádestudio.hu" 
+       data-href="https://xn--jdestudio-01a.hu" 
        data-width=""
        data-layout="button_count" 
        data-action="like" 
