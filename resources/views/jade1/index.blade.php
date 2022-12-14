@@ -107,6 +107,8 @@
                 <div class="col-md-6 p-5 mt-lg-5">
                     <h1 class="display-5 animated fadeIn mb-4">Egy frissítő <span class="text-primary">Jáde maszzázs</span> Jöhet?</h1>
                     <p class="animated fadeIn mb-4 pb-2">Ha valami igazán különlegeset és és személyre szabottat szeretnél..</p>
+
+                    <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Igen szeretném</a>
     <!-- like and shar button-->
     <div class="fb-like" 
        data-href="https://jádestudio.hu" 
@@ -117,7 +119,6 @@
        data-share="true">
     </div>    
      <!-- like and shar button--> 
-                    <a href="" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Igen szeretném</a>
                 </div>
                 <div class="col-md-6 animated fadeIn">
                     <div class="owl-carousel header-carousel">
