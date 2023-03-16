@@ -8,7 +8,7 @@ php artisan voyager:admin motto001@gmail.com --create
 you will be prompted for the users name and password.
 http://localhost:8000/admin 
 email: motto001@gmail.com
-password: motto6814
+
 hibajel:GD Library extension not available with this PHP installation.
 
 php.ini: 
